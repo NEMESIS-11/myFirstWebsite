@@ -9,3 +9,10 @@
   height: 100vh;
   bottom: 0;
 }
+.text{
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  top: 10%;
+  font-size: 34px;
+}
